@@ -4,4 +4,4 @@ homework
 some test picture
 请重点查看：
 Modern digital signal processing.docx
-相关示例代码均贴出（text1-text8）
+相关示例代码均贴出（texs1-test8）
